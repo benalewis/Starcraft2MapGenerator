@@ -1,0 +1,5 @@
+C:\Users\Ben\RiderProjects\Starcraft2MapPicker\Starcraft2MapPicker\bin\Debug\Starcraft2MapPicker.exe
+C:\Users\Ben\RiderProjects\Starcraft2MapPicker\Starcraft2MapPicker\bin\Debug\Starcraft2MapPicker.pdb
+C:\Users\Ben\RiderProjects\Starcraft2MapPicker\Starcraft2MapPicker\obj\Debug\Starcraft2MapPicker.csprojResolveAssemblyReference.cache
+C:\Users\Ben\RiderProjects\Starcraft2MapPicker\Starcraft2MapPicker\obj\Debug\Starcraft2MapPicker.exe
+C:\Users\Ben\RiderProjects\Starcraft2MapPicker\Starcraft2MapPicker\obj\Debug\Starcraft2MapPicker.pdb
